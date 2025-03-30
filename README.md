@@ -34,16 +34,16 @@ Change detection data set with pixel-level binary labels;
 
 `list`: contrains `train.txt`, `val.txt`, and `test.txt`. each fild records the name of image paris (XXX.png).
 ## 👉 Data Download
-GVLM-CD: [Google Drive](https://drive.google.com/file/d/1jqcY0U4pl4UR1DKN2rs_R3WAYGy6ISEY/view?usp=sharing) or 
+GVLM-CD: [Google Drive](https://drive.google.com/file/d/1jqcY0U4pl4UR1DKN2rs_R3WAYGy6ISEY/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1B7rBkQNt4C7hUDMtrXXzLg?pwd=vcgd)
 
-LEVIR-CD: [Google Drive](https://drive.google.com/file/d/1_q3UjW5NAgQe05Lg_wWf4cvxpwdT4pRA/view?usp=sharing) or 
+LEVIR-CD: [Google Drive](https://drive.google.com/file/d/1_q3UjW5NAgQe05Lg_wWf4cvxpwdT4pRA/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1B0KaEaZ1g1rY6IoL1svjcw?pwd=tfkh)
 
-WHU-CD: [Google Drive](https://drive.google.com/file/d/1owVmai-WK7nSl4E_ahvBSDnW1esljjkN/view?usp=sharing) or 
+WHU-CD: [Google Drive](https://drive.google.com/file/d/1owVmai-WK7nSl4E_ahvBSDnW1esljjkN/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1aamE0IOv-yrrH-uDaKshcQ?pwd=xhbq)
 # 💬 Training and Testing
 train.py
 
 test.py
 # 💬 Model Weights
-Find the model weights [Google Drive](https://drive.google.com/drive/folders/1GKj99WhwkV6j2tNnrAqvb0etJPY0N-Hm?usp=sharing) or 
+Find the model weights [Google Drive](https://drive.google.com/drive/folders/1GKj99WhwkV6j2tNnrAqvb0etJPY0N-Hm?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1O7A02m03anLtfxxGyIfgIQ?pwd=164w)
 # 💬 License
 The code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
