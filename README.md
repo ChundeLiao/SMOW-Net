@@ -34,7 +34,11 @@ Change detection data set with pixel-level binary labels;
 
 `list`: contrains `train.txt`, `val.txt`, and `test.txt`. each fild records the name of image paris (XXX.png).
 ## 👉 Data Download
+GVLM-CD: [here](https://drive.google.com/file/d/1jqcY0U4pl4UR1DKN2rs_R3WAYGy6ISEY/view?usp=sharing)
 
+LEVIR-CD: [here](https://drive.google.com/file/d/1_q3UjW5NAgQe05Lg_wWf4cvxpwdT4pRA/view?usp=sharing)
+
+WHU-CD: [here](https://drive.google.com/file/d/1owVmai-WK7nSl4E_ahvBSDnW1esljjkN/view?usp=sharing)
 # 💬 Training and Testing
 train.py
 
