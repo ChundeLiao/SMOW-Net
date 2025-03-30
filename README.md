@@ -40,6 +40,6 @@ train.py
 
 test.py
 # 💬 Model Weights
-Find the model weights
+Find the model weights [here](https://drive.google.com/drive/folders/1GKj99WhwkV6j2tNnrAqvb0etJPY0N-Hm?usp=sharing)
 # 💬 License
 The code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
